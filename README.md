@@ -18,7 +18,7 @@
 ## 🚀 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,mongodb,postgres,git,github,postman,vscode,nestjs,prisma,c,bash,cpp,nginx,powershell,supabase,npm,docker,aws,githubactions,appwrite,firebase" />                                                                                                         
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,mongodb,postgres,git,github,postman,vscode,nestjs,prisma,c,bash,cpp,nginx,powershell,supabase,npm,docker,aws,githubactions,appwrite,firebase,ai,mysql,wordpress,windows,php,laravel,md" />                                                                                                         
 </p>
 
 
