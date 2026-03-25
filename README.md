@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on *Backend Projects*
 - 🌱 I’m currently learning **Advanced Backend, DevOps, System Design**
 - 👨‍💻 All of my projects are available on **GitHub**
-- 💼 Open to Work & Collaboration - I'm open to collaborating on backend projects, delivering production-ready APIs, scalable server architecture & complete backend solutions. Whether it's freelance, open-source or full-time — let's build something great!
+- 💼 Open to Work & Collaboration - I'm open to collaborating on AI Powered backend projects, delivering production-ready APIs, scalable server architecture & complete backend solutions. Whether it's freelance, open-source or full-time — let's build something great!
 - 📫 Reach me at: **vaibhavpatel9398@gmail.com**
 
 
@@ -18,7 +18,7 @@
 ## 🚀 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,mongodb,postgres,git,github,postman,vscode,nestjs,prisma,c,bash" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,mongodb,postgres,git,github,postman,vscode,nestjs,prisma,c,bash,cpp,nginx,powershell,supabase,npm,docker,aws,githubactions,appwrite,firebase" />                                                                                                         
 </p>
 
 
