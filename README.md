@@ -18,15 +18,9 @@
 ## 🚀 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,mongodb,postgres,git,github,postman,vscode,nestjs,prisma,c,bash,cpp,nginx,powershell,supabase,npm,docker,aws,githubactions,appwrite,firebase,ai,mysql,wordpress,windows,php,laravel,md" />                                                                                                         
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,mongodb,postgres,git,github,postman,vscode,nestjs,prisma,c,bash,cpp,nginx,powershell,supabase,npm,docker,aws,githubactions,appwrite,firebase,ai,mysql,wordpress,windows,php,laravel,md,linux,html,css,graphql,netlify,rabbitmq,react,redux,tailwind,vite,redis,nextjs,materialui,kubernetes"/> 
 </p>
 
-
-## 💻 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayAmbe13&layout=compact&theme=tokyonight" />
-</p>
 
 
 ## 🤝 Connect with Me
