@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Patel</h1>
-<h3 align="center">🚀 Junior Backend Developer from India</h3>
+<h3 align="center">🚀 Full Stack Web And Mobile App Developer from India</h3>
 
 
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on *Backend Projects*
+- 🔭 I’m currently working on *Full Stack Projects*
 - 🌱 I’m currently learning **Advanced Backend, DevOps, System Design**
 - 👨‍💻 All of my projects are available on **GitHub**
-- 💼 Open to Work & Collaboration - I'm open to collaborating on AI Powered backend projects, delivering production-ready APIs, scalable server architecture & complete backend solutions. Whether it's freelance, open-source or full-time — let's build something great!
+- 💼 Open to Work & Collaboration - I'm open to collaborating on Building AI Powered production-ready full-stack applications with scalable backend architecture and seamless frontend experiences.. Whether it's freelance, open-source or full-time — let's build something great!
 - 📫 Reach me at: **vaibhavpatel9398@gmail.com**
 
 
@@ -18,7 +18,7 @@
 ## 🚀 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,mongodb,postgres,git,github,postman,vscode,nestjs,prisma,c,bash,cpp,nginx,powershell,supabase,npm,docker,aws,azure,githubactions,appwrite,firebase,ai,mysql,wordpress,windows,php,laravel,md,linux,html,css,graphql,netlify,rabbitmq,react,redux,tailwind,vite,redis,nextjs,materialui,kubernetes,cs,bootstrap,django,dotnet,fastapi,flask,go,graphql,maven,py,replit,sass,spring,sqlite,visualstudio,java,gmail,idea,webpack"/> 
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,mongodb,postgres,git,github,postman,vscode,nestjs,prisma,c,bash,cpp,nginx,powershell,supabase,npm,docker,aws,azure,githubactions,appwrite,firebase,ai,mysql,wordpress,windows,php,laravel,md,linux,html,css,graphql,netlify,rabbitmq,react,redux,tailwind,vite,redis,nextjs,materialui,kubernetes,cs,bootstrap,django,dotnet,fastapi,flask,go,graphql,maven,py,replit,sass,spring,sqlite,visualstudio,java,idea,webpack"/> 
 </p>
 
 
@@ -26,12 +26,15 @@
 ## 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
+  <a href="https://linkedin.com/in/vaibhavpatel13">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://github.com/JayAmbe13">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
+  <a href="mailto:vaibhavpatel9398@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
 </p>
 
 
