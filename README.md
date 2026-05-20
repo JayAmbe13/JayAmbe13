@@ -18,7 +18,8 @@
 ## 🚀 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,mongodb,postgres,git,github,postman,vscode,nestjs,prisma,c,bash,cpp,nginx,powershell,supabase,npm,docker,aws,azure,githubactions,appwrite,firebase,ai,mysql,wordpress,windows,php,laravel,md,linux,html,css,graphql,netlify,rabbitmq,react,redux,tailwind,vite,redis,nextjs,materialui,kubernetes,cs,bootstrap,django,dotnet,fastapi,flask,go,graphql,maven,py,replit,sass,spring,sqlite,visualstudio,java,idea,webpack"/> 
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,mongodb,postgres,git,github,postman,vscode,nestjs,prisma,c,bash,cpp,nginx,powershell,supabase,npm,docker,aws,azure,githubactions,appwrite,firebase,ai,mysql,wordpress,windows,php,laravel,md,linux,html,css,netlify,rabbitmq,react,redux,tailwind,vite,redis,nextjs,materialui,kubernetes,cs,bootstrap,django,dotnet,fastapi,flask,go,graphql,maven,py,replit,sass,spring,sqlite,visualstudio,java,idea,webpack,androidstudio,heroku,jquery,stackoverflow,ubuntu"/>
+  <h5>React Native, Mongoose, SQLserver, Expo, Shadcn, Daisy UI , OOP, DBMS, OS, NETWORK, DATA STRUCTURE, ALGORITHMS </h5>
 </p>
 
 
